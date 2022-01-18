@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet"  href= "stylwlogin.css">
+
+  </head>
+  <body>
+
+   <div class="col-md-4 col-md-offset-4 backsecond"></div>
+
+   <div class="textcenter">
+    </h1>Log In</h1>
+    </div>
+    <form>
+    <div class= "col-md-12">
+        <input type="text"class="form-control-login" placeholder="Username">
+        </div>
+        <div class= "col-md-12">
+            <input type="text"class="form-control-login" placeholder="Password">
+        </div>
+        <div class="col-md-12">
+        <label class="checkbox">
+        <input type="checkbox" value="remember me ">Remember
+        <div class= "col-md-12">
+            <button type="btn" class="tn-login-control">Log In</button>
+        <p align="center">Do not Have a Account? <a href="#"Sign Up!</a  </p>
+        <p align="center"><a href="#">Forgot Password</a> </p>
+        </div>
+        </label>
